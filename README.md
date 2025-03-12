@@ -214,58 +214,70 @@ plt.show()
 - ### **i)** Read and Display an Image.  
    1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
 
-  ![image](https://github.com/user-attachments/assets/7a0aa73c-425d-4d02-8a14-a2e5e6125c51)
+ ![alt text](op/1.png)
 
 
   2.Save image as PNG and display:
 
-  ![image](https://github.com/user-attachments/assets/a5ac66f4-e1a5-4833-a0d0-c202057df417)
+  ![alt text](op/2.png)
 
 
   3.Cropped image:
 
-  ![image](https://github.com/user-attachments/assets/055792b4-ac3c-4f7b-a76c-9f089112c840)
+![alt text](op/3.png)
+  
 
 
   4.Resize and flip Horizontally:
 
-![image](https://github.com/user-attachments/assets/96e86426-66d7-489f-be23-a142fafed783)
+![alt text](op/4.png)
 
   5.Read 'Apollo-11-launch.jpg' and  Display the final annotated image:
 
-  ![image](https://github.com/user-attachments/assets/95ca09b2-bb69-4b9a-902c-e84b02be45e8)
+![alt text](op/6.png)
+
+  
 
 
 - ### **ii)** Adjust Image Brightness.
 
 1.Create brighter and darker images and display:
 
-![image](https://github.com/user-attachments/assets/b092a044-caca-4e2d-abe6-45b2e1de8ddf)
+![alt text](op/7.png)
+
+
 
 - ### **iii)** Modify Image Contrast.  
 1. Modify contrast using scaling factors 1.1 and 1.2:
 
-![image](https://github.com/user-attachments/assets/52cf0e60-b786-4173-9c94-deccf59da25d)
+![alt text](op/8.png)
+
 
 
 - ### **iv)** Generate Third Image Using Bitwise Operations.
 
 1.Split 'Boy.jpg' into B, G, R components and display:
 
-![image](https://github.com/user-attachments/assets/663f2c76-d281-4427-b5a5-e8695da16fa7)
+![alt text](op/9.png)
+
 
 
 2.Merge the R, G, B channels and display:
 
-![image](https://github.com/user-attachments/assets/12fc4958-afaf-4178-9b7c-a8cbcde9669b)
+![alt text](op/10.png)
+
+
 
 3.Split the image into H, S, V components and display:
 
-![image](https://github.com/user-attachments/assets/6e55c163-01cf-4742-bd78-fc79b4ede809)
+![alt text](op/11.png)
+
+
 
 4.Merge the H, S, V channels and display:
 
-![image](https://github.com/user-attachments/assets/efc2fa31-893f-44cb-9ed8-f23a96e0e2fe)
+![alt text](op/12.png)
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.

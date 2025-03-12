@@ -276,7 +276,9 @@ plt.show()
 
 4.Merge the H, S, V channels and display:
 
-![alt text](op/12.png)
+![alt text](op/13.png)
+
+
 
 
 ## Result:
